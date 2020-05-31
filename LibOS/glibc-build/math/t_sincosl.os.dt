@@ -1,0 +1,16 @@
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/math/t_sincosl.os: \
+ ../sysdeps/ieee754/ldbl-96/t_sincosl.c ../include/stdc-predef.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

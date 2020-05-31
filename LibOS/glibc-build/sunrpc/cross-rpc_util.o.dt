@@ -1,0 +1,13 @@
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/sunrpc/cross-rpc_util.o: \
+ rpc_util.c /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h \
+ rpc_scan.h rpc_parse.h rpc_util.h proto.h
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h:
+
+rpc_scan.h:
+
+rpc_parse.h:
+
+rpc_util.h:
+
+proto.h:

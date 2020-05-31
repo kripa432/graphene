@@ -1,0 +1,1054 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (rtld_errno)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__closedir)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__readdir)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__rewinddir)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os) (__getdents)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__fdopendir)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__profil)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__profile_frequency)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__GI___xstat64)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__open)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__libc_read)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__libc_write)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__access)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os) (__libc_fcntl)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__close)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__mmap)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__munmap)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__mprotect)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__lseek)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__uname)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__GI__exit)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__getpid)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__environ)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__sigsetjmp)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__longjmp)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (strchr)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (strcmp)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__strdup)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (strlen)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (strnlen)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (memchr)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (memcmp)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (memmove)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (memset)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (__stpcpy)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (memcpy)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os) (_wordcopy_fwd_aligned)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os (rawmemchr)
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+LOAD /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1ae82
+ *(.text .stub)
+ .text          0x0000000000000000    0x17380 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000000728                _dl_initial_error_catch_tsd
+                0x0000000000005f90                _dl_dst_count
+                0x0000000000006040                _dl_dst_substitute
+                0x0000000000006950                _dl_init_paths
+                0x0000000000006d90                _dl_map_object
+                0x0000000000007790                _dl_rtld_di_serinfo
+                0x00000000000086a0                _dl_lookup_symbol_x
+                0x0000000000009780                _dl_setup_hash
+                0x0000000000009830                _dl_add_to_namespace_list
+                0x00000000000098c0                _dl_new_object
+                0x0000000000009c60                _dl_try_allocate_static_tls
+                0x0000000000009d40                _dl_allocate_static_tls
+                0x0000000000009d70                _dl_nothread_init_static_tls
+                0x0000000000009dc0                _dl_protect_relro
+                0x0000000000009e20                _dl_reloc_bad_type
+                0x0000000000009ef0                _dl_relocate_object
+                0x000000000000b6e0                _dl_map_object_deps
+                0x000000000000c980                _dl_important_hwcaps
+                0x000000000000d120                _dl_fixup
+                0x000000000000d300                _dl_profile_fixup
+                0x000000000000d910                _dl_call_pltexit
+                0x000000000000da20                _dl_signal_error
+                0x000000000000dbc0                _dl_signal_cerror
+                0x000000000000dc50                _dl_catch_error
+                0x000000000000dd20                _dl_receive_error
+                0x000000000000dea0                _dl_init
+                0x000000000000dfd0                _dl_sort_fini
+                0x000000000000e210                _dl_fini
+                0x000000000000e5a0                _dl_debug_state
+                0x000000000000e5a0                __GI__dl_debug_state
+                0x000000000000e5b0                _dl_debug_initialize
+                0x000000000000ec40                _dl_sysdep_read_whole_file
+                0x000000000000ecd0                _dl_debug_printf
+                0x000000000000ed80                _dl_debug_printf_c
+                0x000000000000ee30                _dl_dprintf
+                0x000000000000eed0                _dl_name_match_p
+                0x000000000000ef40                _dl_higher_prime_number
+                0x000000000000f3c0                _dl_check_map_versions
+                0x000000000000f880                _dl_check_all_versions
+                0x000000000000f8f0                _dl_start_profile
+                0x00000000000100d0                __GI__dl_mcount
+                0x00000000000100d0                _dl_mcount
+                0x0000000000010330                _dl_resolve_conflicts
+                0x0000000000010770                _dl_next_tls_modid
+                0x0000000000010870                _dl_count_modids
+                0x00000000000108d0                _dl_determine_tlsoffset
+                0x0000000000010aa0                __GI__dl_tls_setup
+                0x0000000000010aa0                _dl_tls_setup
+                0x0000000000010b50                _dl_get_tls_static_info
+                0x0000000000010b70                _dl_allocate_tls_storage
+                0x0000000000010c10                __GI__dl_allocate_tls_init
+                0x0000000000010c10                _dl_allocate_tls_init
+                0x0000000000010eb0                __GI__dl_allocate_tls
+                0x0000000000010eb0                _dl_allocate_tls
+                0x0000000000010ef0                _dl_deallocate_tls
+                0x0000000000010ef0                __GI__dl_deallocate_tls
+                0x0000000000010f80                _dl_update_slotinfo
+                0x0000000000011220                __GI___tls_get_addr
+                0x0000000000011220                __tls_get_addr
+                0x0000000000011260                _dl_tls_get_addr_soft
+                0x00000000000112e0                _dl_add_to_slotinfo
+                0x00000000000113c0                _dl_get_origin
+                0x0000000000011550                _dl_scope_free
+                0x0000000000011620                _dl_make_stack_executable
+                0x0000000000011620                __GI__dl_make_stack_executable
+                0x00000000000116b0                _dl_check_caller
+                0x0000000000011ae0                __GI__dl_find_dso_for_object
+                0x0000000000011ae0                _dl_find_dso_for_object
+                0x0000000000011bd0                _dl_open
+                0x0000000000011fe0                _dl_show_scope
+                0x0000000000012aa0                _dl_addr_inside_object
+                0x0000000000012c50                _dl_close_worker
+                0x0000000000013bb0                _dl_close
+                0x0000000000013c40                _dl_runtime_resolve_avx512
+                0x0000000000013db0                _dl_runtime_profile_avx512
+                0x0000000000014230                _dl_runtime_resolve_avx
+                0x0000000000014390                _dl_runtime_profile_avx
+                0x0000000000014810                _dl_runtime_resolve_sse
+                0x0000000000014940                _dl_runtime_profile_sse
+                0x0000000000014b40                register_library
+                0x0000000000014b50                glibc_option
+                0x0000000000014b58                syscalldb
+                0x0000000000014b60                _dl_cache_libcmp
+                0x0000000000014c40                _dl_load_cache_lookup
+                0x0000000000015200                _dl_unload_cache
+                0x0000000000015240                _dl_make_tlsdesc_dynamic
+                0x0000000000015510                _dl_tlsdesc_resolve_rela_fixup
+                0x00000000000156d0                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015710                _dl_unmap
+                0x0000000000015790                _dl_tlsdesc_return
+                0x00000000000157a0                _dl_tlsdesc_undefweak
+                0x00000000000157b0                _dl_tlsdesc_dynamic
+                0x0000000000015850                _dl_tlsdesc_resolve_rela
+                0x00000000000158c0                _dl_tlsdesc_resolve_hold
+                0x0000000000015940                __get_cpu_features
+                0x0000000000015950                _dl_sysdep_start
+                0x0000000000016000                _dl_sysdep_start_cleanup
+                0x0000000000016010                _dl_show_auxv
+                0x00000000000161c0                _dl_discover_osversion
+                0x0000000000016390                _dl_next_ld_env_entry
+                0x00000000000163e0                unsetenv
+                0x0000000000016450                __libc_memalign
+                0x0000000000016550                malloc
+                0x0000000000016560                calloc
+                0x00000000000165a0                free
+                0x00000000000165d0                __sigjmp_save
+                0x00000000000165e0                __strerror_r
+                0x00000000000166c0                __GI___libc_fatal
+                0x00000000000166c0                __libc_fatal
+                0x00000000000166f0                __GI___chk_fail
+                0x00000000000166f0                __chk_fail
+                0x0000000000016700                __GI___assert_fail
+                0x0000000000016700                __assert_fail
+                0x0000000000016750                realloc
+                0x00000000000167e0                __GI___assert_perror_fail
+                0x00000000000167e0                __assert_perror_fail
+                0x0000000000016850                __strtoul_internal
+                0x0000000000016a20                _itoa
+                0x0000000000016a70                __strsep
+                0x0000000000016a70                strsep
+                0x0000000000016a70                __strsep_g
+                0x0000000000016b00                __brk
+                0x0000000000016b00                brk
+                0x0000000000016b70                sbrk
+                0x0000000000016b70                __sbrk
+                0x0000000000016c00                __getcwd
+                0x0000000000016c00                getcwd
+                0x00000000000170a0                openat64
+                0x0000000000017120                __alloc_dir
+                0x0000000000017230                __opendir
+                0x0000000000017230                opendir
+                0x0000000000017320                __fxstatat
+                0x0000000000017320                __fxstatat64
+                0x0000000000017320                __GI___fxstatat64
+ .text          0x0000000000017380      0x102 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000017450                __libc_check_standard_fds
+ .text          0x0000000000017482        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x0000000000017482        0xe 
+ .text          0x0000000000017490       0x60 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000017490                __closedir
+                0x0000000000017490                closedir
+ .text          0x00000000000174f0       0x85 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+                0x00000000000174f0                readdir
+                0x00000000000174f0                __readdir64
+                0x00000000000174f0                __readdir
+                0x00000000000174f0                readdir64
+ *fill*         0x0000000000017575        0xb 
+ .text          0x0000000000017580       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000017580                rewinddir
+                0x0000000000017580                __rewinddir
+ .text          0x00000000000175b0       0xa1 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+                0x00000000000175b0                __getdents
+                0x00000000000175b0                __getdents64
+ *fill*         0x0000000000017651        0xf 
+ .text          0x0000000000017660       0x8e /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x0000000000017660                fdopendir
+                0x0000000000017660                __fdopendir
+ *fill*         0x00000000000176ee        0x2 
+ .text          0x00000000000176f0      0x110 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000017740                __profil
+                0x0000000000017740                profil
+ .text          0x0000000000017800        0x7 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000017800                __profile_frequency
+ *fill*         0x0000000000017807        0x9 
+ .text          0x0000000000017810       0x60 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+                0x0000000000017810                _xstat
+                0x0000000000017810                __xstat64
+                0x0000000000017810                __GI___xstat64
+                0x0000000000017810                __GI___xstat
+                0x0000000000017810                __xstat
+ .text          0x0000000000017870       0x50 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+                0x0000000000017870                __GI___fxstat
+                0x0000000000017870                __GI___fxstat64
+                0x0000000000017870                __fxstat64
+                0x0000000000017870                _fxstat
+                0x0000000000017870                __fxstat
+ .text          0x00000000000178c0       0x60 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+                0x00000000000178c0                __GI___lxstat
+                0x00000000000178c0                _lxstat
+                0x00000000000178c0                __lxstat
+                0x00000000000178c0                __lxstat64
+                0x00000000000178c0                __GI___lxstat64
+ .text          0x0000000000017920       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+                0x0000000000017920                __GI___open64
+                0x0000000000017920                __open
+                0x0000000000017920                __GI_open
+                0x0000000000017920                __GI___open
+                0x0000000000017920                __GI_open64
+                0x0000000000017920                __libc_open
+                0x0000000000017920                open64
+                0x0000000000017920                __GI___libc_open
+                0x0000000000017920                open
+                0x0000000000017920                __open64
+ *fill*         0x0000000000017952        0xe 
+ .text          0x0000000000017960       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+                0x0000000000017960                __read
+                0x0000000000017960                __GI_read
+                0x0000000000017960                __libc_read
+                0x0000000000017960                __GI___read
+                0x0000000000017960                read
+                0x0000000000017960                __GI___libc_read
+ *fill*         0x0000000000017992        0xe 
+ .text          0x00000000000179a0       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+                0x00000000000179a0                __write
+                0x00000000000179a0                __GI_write
+                0x00000000000179a0                write
+                0x00000000000179a0                __GI___libc_write
+                0x00000000000179a0                __GI___write
+                0x00000000000179a0                __libc_write
+ *fill*         0x00000000000179d2        0xe 
+ .text          0x00000000000179e0       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+                0x00000000000179e0                __GI_access
+                0x00000000000179e0                __GI___access
+                0x00000000000179e0                access
+                0x00000000000179e0                __access
+ *fill*         0x0000000000017a12        0xe 
+ .text          0x0000000000017a20       0x9e /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+                0x0000000000017a20                __libc_fcntl
+                0x0000000000017a20                __fcntl
+                0x0000000000017a20                fcntl
+ *fill*         0x0000000000017abe        0x2 
+ .text          0x0000000000017ac0       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+                0x0000000000017ac0                __GI_close
+                0x0000000000017ac0                __GI___libc_close
+                0x0000000000017ac0                __libc_close
+                0x0000000000017ac0                __close
+                0x0000000000017ac0                __GI___close
+                0x0000000000017ac0                close
+ *fill*         0x0000000000017af2        0xe 
+ .text          0x0000000000017b00       0xd6 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+                0x0000000000017b00                __mmap
+                0x0000000000017b00                mmap
+                0x0000000000017b00                __mmap64
+                0x0000000000017b00                mmap64
+ *fill*         0x0000000000017bd6        0xa 
+ .text          0x0000000000017be0       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000017be0                munmap
+                0x0000000000017be0                __GI___munmap
+                0x0000000000017be0                __GI_munmap
+                0x0000000000017be0                __munmap
+ *fill*         0x0000000000017c12        0xe 
+ .text          0x0000000000017c20       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000017c20                __mprotect
+                0x0000000000017c20                __GI___mprotect
+                0x0000000000017c20                __GI_mprotect
+                0x0000000000017c20                mprotect
+ *fill*         0x0000000000017c52        0xe 
+ .text          0x0000000000017c60       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+                0x0000000000017c60                __GI___lseek
+                0x0000000000017c60                __GI_lseek64
+                0x0000000000017c60                __llseek
+                0x0000000000017c60                __GI_llseek
+                0x0000000000017c60                __lseek64
+                0x0000000000017c60                lseek
+                0x0000000000017c60                __libc_lseek64
+                0x0000000000017c60                __GI___libc_lseek64
+                0x0000000000017c60                __GI___libc_lseek
+                0x0000000000017c60                llseek
+                0x0000000000017c60                __lseek
+                0x0000000000017c60                __GI___lseek64
+                0x0000000000017c60                __libc_lseek
+                0x0000000000017c60                __GI___llseek
+                0x0000000000017c60                __GI_lseek
+                0x0000000000017c60                lseek64
+ *fill*         0x0000000000017c92        0xe 
+ .text          0x0000000000017ca0       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000017ca0                uname
+                0x0000000000017ca0                __GI_uname
+                0x0000000000017ca0                __uname
+                0x0000000000017ca0                __GI___uname
+ *fill*         0x0000000000017cd2        0xe 
+ .text          0x0000000000017ce0       0x6a /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000017ce0                _Exit
+                0x0000000000017ce0                __GI__exit
+                0x0000000000017ce0                _exit
+ *fill*         0x0000000000017d4a        0x6 
+ .text          0x0000000000017d50       0x1a /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000017d50                __getpid
+                0x0000000000017d50                getpid
+ .text          0x0000000000017d6a        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000017d6a        0x6 
+ .text          0x0000000000017d70       0x4f /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000017d70                __sigsetjmp
+                0x0000000000017d70                __GI___sigsetjmp
+ *fill*         0x0000000000017dbf        0x1 
+ .text          0x0000000000017dc0       0x4a /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000017dc0                __longjmp
+ *fill*         0x0000000000017e0a        0x6 
+ .text          0x0000000000017e10      0x280 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000017e30                __libc_sigaction
+                0x0000000000018070                sigaction
+                0x0000000000018070                __sigaction
+ .text          0x0000000000018090      0x21a /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000018090                index
+                0x0000000000018090                strchr
+ *fill*         0x00000000000182aa        0x6 
+ .text          0x00000000000182b0     0x1439 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x00000000000182b0                strcmp
+ *fill*         0x00000000000196e9        0x7 
+ .text          0x00000000000196f0       0x41 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+                0x00000000000196f0                __strdup
+                0x00000000000196f0                strdup
+ *fill*         0x0000000000019731        0xf 
+ .text          0x0000000000019740      0x19c /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+                0x0000000000019740                strlen
+ *fill*         0x00000000000198dc        0x4 
+ .text          0x00000000000198e0      0x218 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x00000000000198e0                __strnlen
+                0x00000000000198e0                strnlen
+ *fill*         0x0000000000019af8        0x8 
+ .text          0x0000000000019b00      0x344 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000019b00                memchr
+                0x0000000000019b00                __memchr
+ *fill*         0x0000000000019e44        0xc 
+ .text          0x0000000000019e50      0x400 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000019e50                bcmp
+                0x0000000000019e50                memcmp
+ .text          0x000000000001a250      0x15a /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+                0x000000000001a250                memmove
+ *fill*         0x000000000001a3aa        0x6 
+ .text          0x000000000001a3b0       0xe3 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+                0x000000000001a3b0                memset
+ *fill*         0x000000000001a493        0xd 
+ .text          0x000000000001a4a0       0xdc /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x000000000001a4a0                stpcpy
+                0x000000000001a4a0                __stpcpy
+ *fill*         0x000000000001a57c        0x4 
+ .text          0x000000000001a580      0x160 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+                0x000000000001a580                memcpy
+ .text          0x000000000001a6e0      0x556 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+                0x000000000001a6e0                _wordcopy_fwd_aligned
+                0x000000000001a820                _wordcopy_fwd_dest_aligned
+                0x000000000001a950                _wordcopy_bwd_aligned
+                0x000000000001aae0                _wordcopy_bwd_dest_aligned
+ *fill*         0x000000000001ac36        0xa 
+ .text          0x000000000001ac40      0x204 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                0x000000000001ac40                __rawmemchr
+                0x000000000001ac40                rawmemchr
+ *fill*         0x000000000001ae44        0xc 
+ .text          0x000000000001ae50       0x32 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x000000000001ae50                setitimer
+                0x000000000001ae50                __setitimer
+                0x000000000001ae50                __GI_setitimer
+                0x000000000001ae50                __GI___setitimer
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x205
+ .text.unlikely
+                0x0000000000000000      0x205 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .text.unlikely
+                0x0000000000000205        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x1f50
+ *(.rodata)
+ .rodata        0x0000000000000000     0x1ed0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                glibc_version
+                0x0000000000001ec0                __GI__itoa_lower_digits
+                0x0000000000001ec0                _itoa_lower_digits
+ .rodata        0x0000000000001ed0       0x40 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .rodata        0x0000000000001f10       0x40 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+
+.rodata.str1.1  0x0000000000000000      0xae2
+ .rodata.str1.1
+                0x0000000000000000      0xace /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000ace       0x14 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+
+.rodata.str1.8  0x0000000000000000     0x15a9
+ .rodata.str1.8
+                0x0000000000000000     0x15a9 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+
+.rodata.str1.16
+                0x0000000000000000      0x2f3
+ .rodata.str1.16
+                0x0000000000000000      0x2f3 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x7b
+ .rodata.str1.32
+                0x0000000000000000       0x7b /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x2cb8
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2260 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ .eh_frame      0x0000000000002260       0x68 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x00000000000022c8       0x40 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000002308       0x48 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .eh_frame      0x0000000000002350       0x38 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000002388       0x68 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .eh_frame      0x00000000000023f0       0x50 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000002440       0x50 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+                                         0x48 (size before relaxing)
+ .eh_frame      0x0000000000002490       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x00000000000024c0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .eh_frame      0x00000000000024f0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .eh_frame      0x0000000000002520       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x0000000000002550       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+ .eh_frame      0x0000000000002580       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+ .eh_frame      0x00000000000025b0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+ .eh_frame      0x00000000000025e0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000002610       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .eh_frame      0x0000000000002640       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+ .eh_frame      0x0000000000002670       0x60 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .eh_frame      0x00000000000026d0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000002700       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002730       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+ .eh_frame      0x0000000000002760       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000002790       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000027c0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000027f0       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002820       0x48 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002868       0xf0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000002958       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000002988       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x00000000000029b8       0x50 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000002a08       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000002a38       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000002a68       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000002a98       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000002ac8       0x68 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x0000000000002b30       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000002b60       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000002b90       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .eh_frame      0x0000000000002bc0       0x98 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+                                         0x90 (size before relaxing)
+ .eh_frame      0x0000000000002c58       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .eh_frame      0x0000000000002c88       0x30 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xf78
+ *(.data)
+ .data          0x0000000000000000      0xf78 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .data          0x0000000000000f78        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.data.rel.ro    0x0000000000000000      0x29c
+ .data.rel.ro   0x0000000000000000      0x29c /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global_ro
+                0x0000000000000000                _rtld_local_ro
+                0x0000000000000170                _dl_argc
+                0x0000000000000178                __GI__dl_argv
+                0x0000000000000178                _dl_argv
+                0x0000000000000180                _dl_skip_args
+                0x0000000000000188                __pointer_chk_guard_local
+                0x0000000000000280                __stack_prot
+                0x0000000000000288                _dl_random
+                0x0000000000000290                __libc_stack_end
+                0x0000000000000290                __GI___libc_stack_end
+                0x0000000000000298                __GI___libc_enable_secure
+                0x0000000000000298                __libc_enable_secure
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x138
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x110 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+                0x00000000000000e8                __libc_multiple_libcs
+                0x0000000000000108                __curbrk
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .bss           0x0000000000000110        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000110       0x20 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000130        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000130        0x8 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000130                _environ
+                0x0000000000000130                __environ
+                0x0000000000000130                environ
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .bss           0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+ *(COMMON)
+ COMMON         0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ COMMON         0x0000000000000138        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xc06
+ *(.comment)
+ .comment       0x0000000000000000      0x798 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ .comment       0x0000000000000798       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x00000000000007ce       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000804       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x000000000000083a       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .comment       0x0000000000000870       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x00000000000008a6       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .comment       0x00000000000008dc       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000912       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000948       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x000000000000097e       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .comment       0x00000000000009b4       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .comment       0x00000000000009ea       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x0000000000000a20       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .comment       0x0000000000000a56       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .comment       0x0000000000000a8c       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000ac2       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .comment       0x0000000000000af8       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000b2e       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000b64       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000b9a       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .comment       0x0000000000000bd0       0x36 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/elf/librtld.os elf64-x86-64)

@@ -1,0 +1,67 @@
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/math/s_rintf.os: \
+ ../sysdeps/x86_64/fpu/multiarch/s_rintf.S ../include/stdc-predef.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h machine/asm.h \
+ ../sysdeps/unix/sysv/linux/x86_64/sysdep.h \
+ ../sysdeps/unix/sysv/linux/sysdep.h ../sysdeps/unix/x86_64/sysdep.h \
+ ../sysdeps/unix/sysdep.h ../sysdeps/generic/sysdep.h \
+ ../sysdeps/generic/dwarf2.h ../sysdeps/unix/sysv/linux/sys/syscall.h \
+ /usr/include/x86_64-linux-gnu/asm/unistd.h \
+ /usr/include/x86_64-linux-gnu/asm/unistd_64.h ../sysdeps/x86_64/sysdep.h \
+ ../sysdeps/x86_64/nptl/tls.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/tcb-offsets.h \
+ ../sysdeps/unix/sysv/linux/x86_64/syscalldb.h \
+ ../sysdeps/generic/asm-syntax.h ../sysdeps/x86/init-arch.h \
+ ../sysdeps/x86/cpu-features.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/ifunc-defines.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/rtld-global-offsets.h
+
+../include/stdc-predef.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+machine/asm.h:
+
+../sysdeps/unix/sysv/linux/x86_64/sysdep.h:
+
+../sysdeps/unix/sysv/linux/sysdep.h:
+
+../sysdeps/unix/x86_64/sysdep.h:
+
+../sysdeps/unix/sysdep.h:
+
+../sysdeps/generic/sysdep.h:
+
+../sysdeps/generic/dwarf2.h:
+
+../sysdeps/unix/sysv/linux/sys/syscall.h:
+
+/usr/include/x86_64-linux-gnu/asm/unistd.h:
+
+/usr/include/x86_64-linux-gnu/asm/unistd_64.h:
+
+../sysdeps/x86_64/sysdep.h:
+
+../sysdeps/x86_64/nptl/tls.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/tcb-offsets.h:
+
+../sysdeps/unix/sysv/linux/x86_64/syscalldb.h:
+
+../sysdeps/generic/asm-syntax.h:
+
+../sysdeps/x86/init-arch.h:
+
+../sysdeps/x86/cpu-features.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/ifunc-defines.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/rtld-global-offsets.h:

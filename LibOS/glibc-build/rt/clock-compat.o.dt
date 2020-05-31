@@ -1,0 +1,18 @@
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/rt/clock-compat.o: \
+ clock-compat.c ../include/stdc-predef.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/shlib-compat.h
+
+../include/stdc-predef.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/kripa432/Code/sgx/graphene/LibOS/glibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/shlib-compat.h:

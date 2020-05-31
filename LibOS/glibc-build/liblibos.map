@@ -1,0 +1,8 @@
+GLIBC_2.19 {
+  global:
+    benchmark_rpc; send_rpc; recv_rpc;
+    checkpoint;
+    msgpersist;
+  local:
+    *;
+};
