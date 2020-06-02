@@ -18,6 +18,8 @@ PYTHONEXEC := $(PYTHONPATH)/bin/$(PYTHONVERSION)
 PYTHONDISTHOME := $(PYTHONPATH)/lib/python3/dist-packages
 PYTHONSHORTVERSION := $(subst python,,$(subst .,,$(PYTHONVERSION)))
 
+version=3.7.2
+INSTALL_DIR=$(shell pwd)/install
 # Relative path to Graphene root
 GRAPHENEDIR ?= ../../../../..
 
@@ -94,7 +96,7 @@ python-trusted-libs: python-deps
 python-trusted-scripts:
 	echo -n "$(PYTHON_TRUSTED_SCRIPTS)" >> $@
 
-python.manifest: python.manifest.template python-trusted-libs python-trusted-scripts
+python.manifest: python.manifest.template python-trusted-libs python-trusted-scripts install/bin/python3.7
 	sed -e 's|$$(GRAPHENEDIR)|'"$(GRAPHENEDIR)"'|g' \
 		-e 's|$$(GRAPHENEDEBUG)|'"$(GRAPHENEDEBUG)"'|g' \
 		-e 's|$$(PYTHONDISTHOME)|'"$(PYTHONDISTHOME)"'|g' \
@@ -122,6 +124,19 @@ python.token: python.sig
 # Extra executables
 pal_loader:
 	ln -s $(GRAPHENEDIR)/Runtime/pal_loader $@
+
+
+install/bin/python3.7: Python-$(version)/configure
+	cd Python-$(version); ./configure --prefix=$(INSTALL_DIR)
+	cd Python-$(version); make
+	cd Python-$(version); make install
+
+
+Python-$(version)/configure:  Python-$(version).tar.xz
+	tar -xvmf $?
+
+Python-$(version).tar.xz:
+	wget https://www.python.org/ftp/python/3.7.2/Python-$(version).tar.xz
 
 .PHONY: check
 check: all
