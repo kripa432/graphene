@@ -1,4 +1,4 @@
-#!/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/install/bin/python3.7m
+#!/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/install/bin/python3.7m
 # -*- python -*-
 
 # Keep this script in sync with python-config.sh.in

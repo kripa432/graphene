@@ -29,8 +29,8 @@ MODLIBS=           _MODLIBS_
 VERSION=	3.7
 srcdir=		.
 
-abs_srcdir=	/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/Python-3.7.2
-abs_builddir=	/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/Python-3.7.2
+abs_srcdir=	/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/Python-3.7.2
+abs_builddir=	/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/Python-3.7.2
 
 
 CC=		gcc -pthread
@@ -128,7 +128,7 @@ MULTIARCH=	x86_64-linux-gnu
 MULTIARCH_CPPFLAGS = -DMULTIARCH=\"x86_64-linux-gnu\"
 
 # Install prefix for architecture-independent files
-prefix=		/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/install
+prefix=		/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/install
 
 # Install prefix for architecture-dependent files
 exec_prefix=	${prefix}
@@ -202,7 +202,7 @@ EXEMODE=	755
 FILEMODE=	644
 
 # configure script arguments
-CONFIG_ARGS=	 '--prefix=/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/install' 'PKG_CONFIG_PATH=:/home/kripa432/Code/sgx/linux-sgx-2.7.1/sgxsdk/pkgconfig:/opt/intel/sgxsdk/pkgconfig:/home/kripa432/Code/sgx/linux-sgx-2.7.1/sgxsdk/pkgconfig'
+CONFIG_ARGS=	 '--prefix=/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/install' 'PKG_CONFIG_PATH=:/home/kripa432/Code/sgx/linux-sgx-2.7.1/sgxsdk/pkgconfig:/opt/intel/sgxsdk/pkgconfig:/home/kripa432/Code/sgx/linux-sgx-2.7.1/sgxsdk/pkgconfig:/opt/intel/sgxsdk/pkgconfig'
 
 
 # Subdirectories with code

@@ -1,5 +1,5 @@
 # See: man pkg-config
-prefix=/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python-scipy-insecure/install
+prefix=/home/kripa432/Code/sgx/graphene/LibOS/shim/test/programs/python/install
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
