@@ -16,7 +16,7 @@
 GRAPHENEDIR = ../../../../..
 
 SRCDIR = src
-COMMIT = 78eb770
+COMMIT = 1.5.20
 
 ifeq ($(DEBUG),1)
 GRAPHENEDEBUG = inline
