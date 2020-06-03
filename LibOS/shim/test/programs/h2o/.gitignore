@@ -1,4 +1,5 @@
 *.tar.gz
+/h2o-*
 /nginx-*/*
 /install/*
 /result-*

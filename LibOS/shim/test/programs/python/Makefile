@@ -10,16 +10,16 @@
 # Constants
 
 # By default, Graphene runs the system Python 3.5 executable.
-PYTHONVERSION ?= python3.5
-PYTHONPATH ?= /usr
-
-PYTHONHOME := $(PYTHONPATH)/lib/$(PYTHONVERSION)
-PYTHONEXEC := $(PYTHONPATH)/bin/$(PYTHONVERSION)
-PYTHONDISTHOME := $(PYTHONPATH)/lib/python3/dist-packages
-PYTHONSHORTVERSION := $(subst python,,$(subst .,,$(PYTHONVERSION)))
-
+PYTHONVERSION ?= python3.7
 version=3.7.2
 INSTALL_DIR=$(shell pwd)/install
+PYTHONPATH ?= $(INSTALL_DIR)
+
+PYTHONHOME = $(PYTHONPATH)/lib/$(PYTHONVERSION)
+PYTHONEXEC = $(PYTHONPATH)/bin/$(PYTHONVERSION)
+PYTHONDISTHOME = $(PYTHONPATH)/lib/python3.7/site-packages
+PYTHONSHORTVERSION = $(subst python,,$(subst .,,$(PYTHONVERSION)))
+
 # Relative path to Graphene root
 GRAPHENEDIR ?= ../../../../..
 
@@ -51,25 +51,10 @@ GLIBC_DEPS = linux-vdso /lib64/ld-linux-x86-64 libc libm librt libdl libutil lib
 PY_LIBS = $(PYTHONHOME)/lib-dynload/_hashlib.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
 	  $(PYTHONHOME)/lib-dynload/_ctypes.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
 	  $(PYTHONHOME)/lib-dynload/_ssl.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
-	  $(PYTHONHOME)/lib-dynload/_bz2.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
-	  $(PYTHONHOME)/lib-dynload/_lzma.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
-	  $(PYTHONHOME)/lib-dynload/_json.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so \
-	  $(PYTHONDISTHOME)/apt_pkg.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so
 
 PY_LIBS_TRUSTED_LIBS = "sgx.trusted_files.hashlib = file:$(PYTHONHOME)/lib-dynload/_hashlib.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
 	  "sgx.trusted_files.ctypes = file:$(PYTHONHOME)/lib-dynload/_ctypes.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
 	  "sgx.trusted_files.ssl = file:$(PYTHONHOME)/lib-dynload/_ssl.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
-	  "sgx.trusted_files.bz2 = file:$(PYTHONHOME)/lib-dynload/_bz2.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
-	  "sgx.trusted_files.lzma = file:$(PYTHONHOME)/lib-dynload/_lzma.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
-	  "sgx.trusted_files.json = file:$(PYTHONHOME)/lib-dynload/_json.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n" \
-	  "sgx.trusted_files.aptpkg = file:$(PYTHONDISTHOME)/apt_pkg.cpython-$(PYTHONSHORTVERSION)m-x86_64-linux-gnu.so\\\\n"
-
-ifeq ($(PYTHONSHORTVERSION),35)
-PYTHON_TRUSTED_SCRIPTS = "sgx.trusted_files.python21 = file:$(PYTHONHOME)/_sysconfigdata.py\\\\n" \
-	  "sgx.trusted_files.python22 = file:$(PYTHONHOME)/plat-x86_64-linux-gnu/_sysconfigdata_m.py\\\\n"
-else
-PYTHON_TRUSTED_SCRIPTS = "sgx.trusted_files.python21 = file:$(PYTHONHOME)/_sysconfigdata_m_linux_x86_64-linux-gnu.py\\\\n"
-endif
 
 # Listing all the Python dependencies, besides Glibc libraries
 .INTERMEDIATE: python-ldd
@@ -92,17 +77,12 @@ python-trusted-libs: python-deps
 	done > $@
 	echo -n "$(PY_LIBS_TRUSTED_LIBS)" >> $@
 
-.INTERMEDIATE: python-trusted-scripts
-python-trusted-scripts:
-	echo -n "$(PYTHON_TRUSTED_SCRIPTS)" >> $@
-
-python.manifest: python.manifest.template python-trusted-libs python-trusted-scripts install/bin/python3.7
+python.manifest: python.manifest.template python-trusted-libs install/bin/python3.7
 	sed -e 's|$$(GRAPHENEDIR)|'"$(GRAPHENEDIR)"'|g' \
 		-e 's|$$(GRAPHENEDEBUG)|'"$(GRAPHENEDEBUG)"'|g' \
 		-e 's|$$(PYTHONDISTHOME)|'"$(PYTHONDISTHOME)"'|g' \
 		-e 's|$$(PYTHONHOME)|'"$(PYTHONHOME)"'|g' \
 		-e 's|$$(PYTHONEXEC)|'"$(PYTHONEXEC)"'|g' \
-		-e 's|$$(PYTHON_TRUSTED_SCRIPTS)|'"`cat python-trusted-scripts`"'|g' \
 		-e 's|$$(PYTHON_TRUSTED_LIBS)|'"`cat python-trusted-libs`"'|g' \
 		$< > $@
 
@@ -140,15 +120,19 @@ Python-$(version).tar.xz:
 
 .PHONY: check
 check: all
-	./run-tests.sh > OUTPUT_TEST 2> /dev/null
-	@grep -q "Success 1/3" OUTPUT_TEST
-	@grep -q "Success 2/3" OUTPUT_TEST
-	@grep -q "Success 3/3" OUTPUT_TEST
-	@rm OUTPUT_TEST
+	./pal_loader python.manifest scripts/test-numpy.py > OUTPUT 2> /dev/null
+	@sleep 1  # to make sure Bash child processes flush output under Graphene-SGX
+	@grep -q "dot: " OUTPUT && echo "[ Success 1/2 ]"
+	@rm OUTPUT
+
+	./pal_loader python.manifest scripts/test-scipy.py > OUTPUT 2> /dev/null
+	@sleep 1
+	@grep -q "cholesky: " OUTPUT && echo "[ Success 2/2 ]"
+	@rm OUTPUT
 
 .PHONY: clean
 clean:
-	$(RM) *.manifest *.manifest.sgx *.token *.sig pal_loader OUTPUT* *.PID
+	$(RM) *.manifest *.manifest.sgx *.token *.sig pal_loader OUTPUT*
 	$(RM) -r scripts/__pycache__
 
 .PHONY: distclean

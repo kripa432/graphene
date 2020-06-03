@@ -1,4 +1,4 @@
-(python3 -m pip install --user html5lib chameleon pyaes)
+./install/bin/python3.7 -m pip install html5lib chameleon pyaes
 echo "\nhtml5lib"
 ./pal_loader python.manifest.sgx -m timeit "import os
 import html5lib
